@@ -16,7 +16,10 @@ These are GitHub Organizations of participating teams, with ones that are newly 
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays at 11-12:30pm: September 17, October 1, 15 & 29.
+We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2020. 
+
+- **Times: 11-12:30pm PST**
+- **September 17, October 1, 15 & 29**
 
 Agenda links below are only accessible to Cohort participants, as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas.
 
