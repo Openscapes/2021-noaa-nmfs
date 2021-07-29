@@ -21,7 +21,7 @@ We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on a
 Agenda links below are only accessible to Cohort participants, as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> to view blank versions of the agendas.
 
 Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
-------------------|----------------------|---------------------------
+------------------|----------------------|--------------------------------
 1. Openscapes mindset](url) | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (Pathways); GitHub Clinic; Team 1:1's with Eli
 [2. Team culture & technical strategies for future us](url) | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (Code of Conduct); Team 1:1's with Eli; Co-working 
 [3. Coding with communities](url) | [coding with communities](#communities) | Seaside Chat (Pathways); Team 1:1's with Eli; Co-working
