@@ -30,9 +30,8 @@ Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 [3. Coding with communities](url) | [coding with communities](#communities) | Seaside Chat (Pathways); Team 1:1's with Eli; Co-working
 [4. Pathways share](url) |  | 
 
-**Clinics:**
+**Clinic Agendas:**
 
 - [GitHub Clinic](url): hands-on from the browser to explore collaborative research through editing, committing, and GitHub Issues.
   - Chapters: [GitHub for publishing](#github-pub),  [GitHub for project management](#github-issues)
-  - Slides: [GitHub clinic](https://docs.google.com/presentation/d/1PzGAbEpNhT6CDPe1DCHf5-eVAjy-2R2D3VMHz7dY774/edit?usp=sharing)
   - Offered several times before Call 2
