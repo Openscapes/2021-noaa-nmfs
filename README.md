@@ -1,4 +1,4 @@
-# 2021-nwfsc-cohort
+# 2021-nwfsc-cohort-2
 
 Welcome to the 2021 NWFSC Openscapes Champions Cohort! Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
