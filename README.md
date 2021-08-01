@@ -27,8 +27,8 @@ Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ------------------|----------------------|--------------------------------
 [1. Openscapes mindset](url) | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (trailhead); Team 1:1's with Eli
 [> GitHub Clinic <](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing) | [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
-[2. Team culture & technical strategies for future us](url) | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
-[3. Coding with communities](url) | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
+[2. Team culture and data strategies for future us](url) | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
+[3. Open communities and coding strategies for future us](url) | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
 [4. Pathways share](url) |  | 
 
 ## More Background on Openscapes and the Champions program:
