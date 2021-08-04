@@ -23,13 +23,13 @@ We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on a
 
 Agenda links below are only accessible to Cohort participants (TODO), as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas.
 
-Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
-------------------|----------------------|--------------------------------
-[1. Openscapes mindset and better science in less time](url) | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (trailhead); Team 1:1's with Eli
-[> GitHub Clinic <](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing) | [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
-[2. Team culture and data strategies for future us](url) | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
-[3. Open communities and coding strategies for future us](url) | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
-[4. Pathways share](url) |  | 
+Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
+----| ------------------|----------------------|--------------------------------
+09/17 | [1. Openscapes mindset and better science in less time](url) | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (trailhead); Team 1:1's with Eli
+TBD | [> GitHub Clinic <](https://docs.google.com/document/d/1puf1UG7HVwZwnbfc0mlBIzCSGvc-99TcTOdmPHzqZc4/edit?usp=sharing) | [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
+10/01 | [2. Team culture and data strategies for future us](url) | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
+10/15 | [3. Open communities and coding strategies for future us](url) | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
+10/29 | [4. Pathways share](url) |  | 
 
 ## More Background on Openscapes and the Champions program:
 
