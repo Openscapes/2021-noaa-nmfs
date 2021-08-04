@@ -29,7 +29,7 @@ Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Call
 TBD | > GitHub Clinic <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
 10/01 | 2. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
-10/29 | [4. Pathways share](url) |  | 
+10/29 | 4. Pathways share |  | 
 
 ## More Background on Openscapes and the Champions program:
 
