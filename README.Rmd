@@ -1,6 +1,0 @@
-This file will ultimately generate the README.md
-
-It will pull from <https://github.com/Openscapes/series/blob/master/agenda-2month.Rmd>, or be created from a Google Sheets registry like we've done here: <https://github.com/OHI-Science/onboarding/blob/main/index.Rmd>.
-
-Then we can edit the README.md directly to make any modifications.
-
