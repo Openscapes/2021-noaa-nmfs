@@ -1,6 +1,6 @@
 # 2021-noaa-nmfs
 
-Welcome to the 2021 NWFSC Openscapes Champions Cohort! Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
+Welcome to the 2021 NOAA NMFS Openscapes Champions Cohort! This is a Cohort for the NOAA National Marine Fisheries Service ([NMFS](https://www.fisheries.noaa.gov/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
 ## Participating teams
 
