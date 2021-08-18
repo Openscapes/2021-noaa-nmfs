@@ -2,18 +2,6 @@
 
 Welcome to the 2021 NOAA NMFS Openscapes Champions Cohort! This is a Cohort for the NOAA National Marine Fisheries Service ([NMFS](https://www.fisheries.noaa.gov/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
-## Participating teams
-
-These are the teams participating: please edit this repo yourself following our GitHub Clinic!
-
-*listed here*
-
-## GitHub Organizations
-
-These are GitHub Organizations of participating teams, with ones that are newly created through the Champions program indicated.
-
-*listed here*
-
 ## Cohort Agendas
 
 We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2020. Additionally, we will schedule several GitHub Clinics before Call 2. 
@@ -30,6 +18,18 @@ TBD | > GitHub Clinic <| [publishing](#github-pub), [project management](#github
 10/01 | 2. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies), [coding strategies](#coding-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](#communities) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
 10/29 | 4. Pathways share |  | 
+
+## Participating teams
+
+These are the teams participating: please edit this repo yourself following our GitHub Clinic!
+
+*listed here*
+
+## GitHub Organizations
+
+These are GitHub Organizations of participating teams, with ones that are newly created through the Champions program indicated.
+
+*listed here*
 
 ## More Background on Openscapes and the Champions program:
 
