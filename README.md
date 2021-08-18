@@ -23,13 +23,13 @@ TBD | > GitHub Clinic <| [publishing](#github-pub), [project management](#github
 
 These are the teams participating: please edit this repo yourself following our GitHub Clinic!
 
-*listed here*
+*coming soon!*
 
 ## GitHub Organizations
 
 These are GitHub Organizations of participating teams, with ones that are newly created through the Champions program indicated.
 
-*listed here*
+*coming soon!*
 
 ## More Background on Openscapes and the Champions program:
 
