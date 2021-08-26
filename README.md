@@ -2,6 +2,8 @@
 
 Welcome to the 2021 NOAA NMFS Openscapes Champions Cohort! This is a Cohort for the NOAA National Marine Fisheries Service ([NMFS](https://www.fisheries.noaa.gov/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
+<img align="right" src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="450">  
+
 ## Cohort Agendas
 
 We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2020. Additionally, we will schedule several GitHub Clinics before Call 2. 
@@ -38,3 +40,5 @@ These are GitHub Organizations of participating teams, with ones that are newly 
 * **[Openscapes: Better Science for Future Us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit#slide=id.ge2b7c2f974_0_2017)** - 2021 plenary talk at the Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE) inaugural conference 
 * **[Openscapes embraces kindness and inclusion in open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)** - 2021 article about Openscapes
 * **[openscapes.org](https://openscapes.org/)** – Openscapes is operated at the National Center for Ecological Analysis & Synthesis, UC Santa Barbara
+
+**This opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
