@@ -12,7 +12,7 @@ We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on a
 - **Times: 11-12:30pm PST**
 - **Location: Remotely, via Zoom**
 
-Agenda links below are only accessible to Cohort participants (TODO), as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas.
+Agenda links below are only accessible to Cohort participants (*coming soon!*), as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas.
 
 Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ----| ------------------|----------------------|--------------------------------
