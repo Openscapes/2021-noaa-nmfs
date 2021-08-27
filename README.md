@@ -45,4 +45,4 @@ These are GitHub Organizations of participating teams, with ones that are newly 
 * **[Openscapes embraces kindness and inclusion in open science](https://sparcopen.org/impact-story/openscapes-embraces-kindness-and-inclusion-of-open-science/)** - 2021 article about Openscapes
 * **[openscapes.org](https://openscapes.org/)** – Openscapes is operated at the National Center for Ecological Analysis & Synthesis, UC Santa Barbara
 
-**This opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).
+**This opportunity is funded in part and coordinated by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)).**
