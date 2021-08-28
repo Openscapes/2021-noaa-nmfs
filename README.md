@@ -1,5 +1,3 @@
-[2021-noaa-nmfs repo](https://github.com/Openscapes/2021-noaa-nmfs/)
-
 <a align="left" href="https://github.com/Openscapes/2021-noaa-nmfs"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
 # 2021 NOAA NMFS Openscapes Champions Cohort
