@@ -6,7 +6,7 @@ Welcome to the 2021 NOAA NMFS Openscapes Champions Cohort! This is a Cohort for 
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2020. Additionally, we will schedule several GitHub Clinics before Call 2. 
+We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2021. Additionally, we will schedule several GitHub Clinics before Call 2. 
 
 - **Dates: September 17, October 1, 15 & 29**
 - **Times: 11-12:30pm PST**
