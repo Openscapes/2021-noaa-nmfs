@@ -28,13 +28,17 @@ Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Call
 
 These are the teams participating: please edit this repo yourself following our GitHub Clinic!
 
-*coming soon!*
+**The NWFSC Eco/Stock Assessment Team** is cross-divisional with a focus on analyses and visualization of fisheries-dependent and -independent data to inform both groundfish stock assessments and integrated ecosystem assessments (IEA). Potential projects include 1) analysis of ecosytem drivers and associated responses, 2) estimation of species-specific habitats in the context of fishing gear utilization, 3) incorporation of ecosystem considerations into stock assessments, 4) visualization of IEA indicator distributions and trends, and/or 5) development of a strata explorer app. Web presence/GitHub Org: 
 
-## GitHub Organizations
+**The NWFSC FEAT Team** will focus on streamlining data tracking/sharing/processing within FEAT team, as well as onboarding/offboarding personnel, coordinating Pacific hake biomass calculation dataflow for stock assessors, MSE, and other interested parties.  Web presence/GitHub Org:
 
-These are GitHub Organizations of participating teams, with ones that are newly created through the Champions program indicated.
+**The NWFSC G&E Team** My goals are perfectly articulated by Eli except my focus is on our salmon bycatch RM&E program in WC groundfish fisheries
 
-*coming soon!*
+**The Team**  will be working on improving data workflow for the PNW Viability Reports that support the WRO Status Reviews for endangered and threatened salmonids. We will be focusing on our data issues and trying to implement more robust workflows to deal with challenges that we will face for the 2025 report: 1) better data tracking, 2) personnel on-boarding systems, 3) personnel off-boarding as most of the staff involved in the prior reports are retiring, and 4) implementing more automated data workflows to allow (perhaps) yearly updates. Those who are dealing with similar on-boarding/off-boarding and data tracking issues for PNW salmon datasets coming from our diverse stakeholder groups are welcome to join the group. 
+
+**The NWFSC WRAP Team** will work to coordinate sharing of data for marine ecosystem or life cycle modeling projects
+
+
 
 ## More Background on Openscapes and the Champions program:
 
