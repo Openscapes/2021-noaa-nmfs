@@ -42,6 +42,13 @@ These are the teams participating: please edit this repo yourself following our 
 
 **The NEFSC Team** *To come*
 
+## Openscapes team
+
+**Eli Holmes**, NWFSC Mathematical Biology and Systems Monitoring Program, is co-leading
+
+**Corey Clatterbuck**, Seagrant Fellow at the California Water Boards, is assisting
+
+
 ## More Background on Openscapes and the Champions program:
 
 * **[Our path to better science in less time using open data science tools](https://www.nature.com/articles/s41559-017-0160)** (Lowndes et al 2017, _Nature Ecology & Evolution_) - this paper greatly influences the whole Champions program and we’ll ask that everyone participating reads it before our first Cohort Call on September 9. 
