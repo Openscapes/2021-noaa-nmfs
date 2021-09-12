@@ -24,6 +24,8 @@ Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Call
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
 10/29 | 4. Pathways share |  | 
 
+This cohort GitHub organzation also has a [wiki](https://github.com/Openscapes/2021-noaa-nmfs/wiki) with GitHub links and resources that you can reference and add to.
+
 ## Participating teams
 
 These are the teams participating: please edit this repo yourself following our GitHub Clinic!
