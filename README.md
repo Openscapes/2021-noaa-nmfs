@@ -46,9 +46,11 @@ These are the teams participating: please edit this repo yourself following our 
 
 ## Openscapes team
 
-**Eli Holmes**, NWFSC Mathematical Biology and Systems Monitoring Program, is co-leading
+[**Julie Lowndes**](http://jules32.github.io/), Openscapes founder and co-director, NCEAS, UCSB, lead
 
-**Corey Clatterbuck**, Seagrant Fellow at the California Water Boards, is assisting
+[**Eli Holmes**](http://eeholmes.github.io/), NWFSC Mathematical Biology and Systems Monitoring Program, co-lead
+
+[**Corey Clatterbuck**](https://www.coreyclatterbuck.com/), Seagrant Fellow at the California Water Boards Office of Information Management and Analysis, assisting
 
 
 ## More Background on Openscapes and the Champions program:
