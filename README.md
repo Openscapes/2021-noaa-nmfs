@@ -18,7 +18,7 @@ Agenda links below are only accessible to Cohort participants (*coming soon!*), 
 
 Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ----| ------------------|----------------------|--------------------------------
-09/17 | 1. Openscapes mindset and better science in less time | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/bsilt) | Seaside Chat (trailhead); Team 1:1's with Eli
+09/17 | [1. Openscapes mindset](https://docs.google.com/document/d/1EItsyjxfePqrt1OsIf6d0am1vbmwYvdSYCG5w1BZW8E/edit?usp=sharing) | [mindset](https://openscapes.github.io/series/mindset) | Seaside Chat (trailhead); Team 1:1's with Eli
 9/20, 9/22 | > GitHub Clinics <| [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
 10/01 | 2. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Seaside Chat (code of conduct); Team 1:1's with Eli; Co-working 
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Seaside Chat (pathways); Team 1:1's with Eli; Co-working
