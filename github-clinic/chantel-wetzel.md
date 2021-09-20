@@ -25,6 +25,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
+My github page can be found [here](https://github.com/chantelwetzel-noaa)
+
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
 
