@@ -5,7 +5,7 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 We can make words **bold** or *italic*.
 
 ## We can make headers.
-###Grocery list
+### Grocery list
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
