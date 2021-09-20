@@ -8,7 +8,7 @@ We can make words **bold** or *italic*.
 
 ### Can we connect to google sites using github?
 
-Find our page (https://sites.google.com/noaa.gov/nmfs-nwfsc-climate-network/home)
+Find our [Climate Team page] (https://sites.google.com/noaa.gov/nmfs-nwfsc-climate-network/home)
 
 Does our repo have to be public, or can we have restricted repos also display a webpage?
 
