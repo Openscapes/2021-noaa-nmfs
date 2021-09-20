@@ -30,7 +30,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
-## This is a cartoon of Shallin working based on a colleague's comment that my Google video background looks like Tatooine. 
+### This is a cartoon of Shallin working based on a colleague's comment that my Google video background looks like Tatooine. 
 
 Note tea cup, scarf, sun blocked by PNW clouds
 
