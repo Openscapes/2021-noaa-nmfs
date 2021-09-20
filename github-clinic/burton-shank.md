@@ -4,15 +4,16 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
-## We can make headers.
+## We can make ***headers***.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
 1. tamales
 1. cakes
+2. ***Banana Cake!***
 
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
+[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example: 
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
@@ -20,6 +21,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
+What happens when you lose the '!' from the image link? You get nothing.
 
 ## Your turn
 
