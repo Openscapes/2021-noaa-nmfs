@@ -6,8 +6,10 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
-###can we connect to google sites using github?
+### Can we connect to google sites using github?
+
 Find our page (https://sites.google.com/noaa.gov/nmfs-nwfsc-climate-network/home)
+
 Does our repo have to be public, or can we have restricted repos also display a webpage?
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
