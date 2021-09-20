@@ -8,9 +8,10 @@ We can make words **bold** or *italic*.
 
 ### Can we connect to google sites using github?
 
-Find our [Climate Team page] (https://sites.google.com/noaa.gov/nmfs-nwfsc-climate-network/home)
+Find our [Climate Team page](https://sites.google.com/noaa.gov/nmfs-nwfsc-climate-network/home)
 
-Does our repo have to be public, or can we have restricted repos also display a webpage?
+Does our repo (lisa439/Climate-Team) have to be public, or can we have restricted repos also display a webpage?
+How do we delete a file on our computer, and not have it prevent github from syncing everything else?
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
