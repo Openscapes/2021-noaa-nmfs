@@ -14,6 +14,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 
 - [ ] do important thinug
 - [ ] do another important thing
+![wash shell fish growers 2022](https://user-images.githubusercontent.com/18671689/134055638-e7f889cb-ab86-4e19-b666-9b01176ca9b1.jpeg)
 
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
