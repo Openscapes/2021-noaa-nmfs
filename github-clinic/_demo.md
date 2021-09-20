@@ -6,11 +6,14 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
+### How about 3 for a header
+
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
 1. bananas
 1. tamales
 1. cakes
+1. tomato
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
