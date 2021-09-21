@@ -97,8 +97,8 @@ That's all you need. For those who like automation.
 This is for those who use **issues**. This IMO works best if you are using labels and milestones on your issues.
 
 * GitHub's basic Kanban automation
-* [**project-bot**](https://github.com/philschatz/project-bot) [Let's see it in action](https://github.com/nwfsc-timeseries/MARSS/projects/8)
-* Setting up **project-bot**. You do this at the personal or organization level not repo level and you need admin rights at that level.
+* [**project-bot**](https://github.com/philschatz/project-bot) [Let's see it in action](https://github.com/nwfsc-timeseries/MARSS/projects/8) 
+* Setting up **project-bot**. You do this at the personal or organization level not repo level and you need admin rights at that level. [Go here to install](https://github.com/apps/project-bot)
 
 
 
