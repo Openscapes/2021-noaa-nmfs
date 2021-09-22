@@ -27,4 +27,14 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
+## My additions
+
+The Southeast Fisheries Science Center (SEFSC) conducts stock assessments through the Southeast Data Assessment and Review (SEDAR; http://sedarweb.org) process for the following regions:
+1. Gulf of Mexico  
+2. South Atlantic
+3. US Caribbean
+4. Atlantic Highly Migratory Species including shars, billfish, and tunas
+
+> [Stock assessments conducted can be found here](http://sedarweb.org/sedar-projects). 
+
 
