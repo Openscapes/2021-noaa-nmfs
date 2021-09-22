@@ -1,4 +1,4 @@
-Hello world!
+Hello world! :zap:
 
 I'm trying to learn how to use GitHub to share my code and collaborate with the FEAT team!
 
