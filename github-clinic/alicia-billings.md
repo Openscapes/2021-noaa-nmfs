@@ -28,6 +28,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 <img width="200" height="200" alt="labtocat" src="https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg">
 
 ## Hello World
+I am Alicia Billings from NWFSC
+
 I like to eat:
 1. strawberries
 2. pickles
