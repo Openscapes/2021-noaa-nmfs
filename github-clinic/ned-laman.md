@@ -13,6 +13,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. cakes
 2. burritos
 3. tacos
+4. [Openscapes Slack Page](https://app.slack.com/client/THYEW0RC4/C02F21Q61B6)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
