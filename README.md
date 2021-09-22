@@ -40,7 +40,7 @@ These are the teams participating: please edit this repo yourself following our 
 
 **The AFSC Team** is from the Resource Assessment and Conservation Engineering (RACE) division at [AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center). This team will be working improve data, code and report workflows for survey data. Data: curation, processing and dissemination, including implementing continuous integration. Code: improving collaboration on code packages survey data processing and prep, streamlining code development and sharing. Reports: automating reports, collaborating on proposal writing, and automating standard data products. Web presence/GitHub Org:
 
-**The SEFSC Team** is part of the SouthEast Data, Assessment, and Review (SEDAR) in the Sustainable Fisheries division at [SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center). This team will be working on improving data workflow, automating reports, and collaborating on packages and functions for assessment model output and disgnostics for Southeast stock assessments for the Gulf of Mexico, Carribean, and Atlantic. Web presence/GitHub Org:
+**The SEFSC Team** is part of the SouthEast Data, Assessment, and Review (SEDAR; http://sedarweb.org/) in the Sustainable Fisheries division at [SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center). This team will be working on improving data workflow, automating reports, and collaborating on packages and functions for assessment model output and diagnostics for Southeast stock assessments for the Gulf of Mexico, Caribbean, and Atlantic. Web presence/GitHub Org:
 
 **The NEFSC Team** *To come*
 
