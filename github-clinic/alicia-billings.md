@@ -19,13 +19,13 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
-![](https://octodex.github.com/images/labtocat.png)
+<img width="200" height="200" alt="labtocat" src="https://octodex.github.com/images/labtocat.png">
 
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
 
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+<img width="200" height="200" alt="labtocat" src="https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg">
 
 ## Hello World
 I like to eat:
