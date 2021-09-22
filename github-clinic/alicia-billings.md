@@ -35,3 +35,6 @@ I like to eat:
 
 But not at the same time!!
 
+| Col1  | Col2  |
+| ----- | ----- |
+| stuff | things|
