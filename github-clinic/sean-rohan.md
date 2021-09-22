@@ -2,8 +2,6 @@
 
 We can use GitHub to version control recipes on GitHub!
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-Beef-Noodles-2008.jpg)
-
 ## Soups for the winter season
 
 Eat well this winter season with delicious, warming soup.
