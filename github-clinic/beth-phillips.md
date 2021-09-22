@@ -1,6 +1,6 @@
 Hello world! :zap:
 
-I'm trying to learn how to use GitHub to share my code and collaborate with the FEAT team!
+I am Beth Phillips from the NWFSC, and I'm trying to learn how to use GitHub to share my code and collaborate with the FEAT team!
 
 # The power of open science: publishing with GitHub
 
