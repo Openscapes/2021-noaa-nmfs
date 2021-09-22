@@ -1,16 +1,14 @@
-# The power of open science: publishing with GitHub
+# The power of soup science: version controlling recipes with GitHub
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
+We can use GitHub to version control recipes on GitHub:
 
-We can make words **bold** or *italic*.
+## Soups for the winter season
 
-## We can make headers.
+Eat well this winter season with delicious, warming soup.
 
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
-
-1. bananas
-1. tamales
-1. cakes
+1. **Pho Tai Nam**
+1. **Tonkotsu Ramen**
+1. **Khao Soy**
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
