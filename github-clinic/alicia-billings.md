@@ -27,4 +27,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
+## Hello World
+I like to eat:
+1. strawberries
+2. pickles
+3. peanut butter
+
+But not at the same time!!
 
