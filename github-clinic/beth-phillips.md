@@ -24,15 +24,11 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 Here's the [FEAT webpage](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/fisheries-engineering-and-acoustic-technologies-team) for more information about our research:
 
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
+![FEAT_SH_sea](https://user-images.githubusercontent.com/44654246/134399511-9f6968a9-f743-4436-b461-f0ebad0b0668.jpg)
 
-![](https://octodex.github.com/images/labtocat.png)
-![](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey)
+We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
-
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
-
 
