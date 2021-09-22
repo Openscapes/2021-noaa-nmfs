@@ -1,6 +1,8 @@
 # The power of soup science: version controlling recipes with GitHub
 
-We can use GitHub to version control recipes on GitHub:
+We can use GitHub to version control recipes on GitHub!
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/53/Pho-Beef-Noodles-2008.jpg)
 
 ## Soups for the winter season
 
@@ -14,8 +16,6 @@ Eat well this winter season with delicious, warming soup.
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
 
