@@ -1,6 +1,7 @@
 # The power of soup science: version controlling recipes with GitHub
+Sean Rohan (AFSC)
 
-We can use GitHub to version control recipes on GitHub!
+We can use GitHub to version control soup recipes on GitHub!
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/dc/Shoyu_Ramen.jpg)
 
