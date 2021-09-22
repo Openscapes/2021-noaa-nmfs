@@ -14,6 +14,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 2. Rum
 3. Orange juice 
 4. Grenadine
+5. Guava juice
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
