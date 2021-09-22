@@ -4,6 +4,8 @@ We can use GitHub to publish on the open web. GitHub supports Markdown text form
 
 We can make words **bold** or *italic*.
 
+To add an emoji to your git commit, surround it with a colon on either side, e.g., :penguin:
+
 ## We can make headers.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
