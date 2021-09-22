@@ -15,6 +15,8 @@ We can make lists that are automagically numbered – *note that lists need a ca
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
+[link to ss- mse] (https://github.com/nmfs-fish-tools/SSMSE)
+
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
