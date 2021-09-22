@@ -27,6 +27,7 @@ Here's the [FEAT webpage](https://www.fisheries.noaa.gov/west-coast/sustainable-
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+![](https://www.fisheries.noaa.gov/west-coast/science-data/joint-us-canada-integrated-ecosystem-and-pacific-hake-acoustic-trawl-survey)
 
 ## Your turn
 
