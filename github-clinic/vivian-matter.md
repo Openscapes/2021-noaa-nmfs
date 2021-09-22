@@ -29,3 +29,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
 *Adding some italic text*
+![scamp-grouper-464x170](https://user-images.githubusercontent.com/71509626/134385805-7874d2e9-2dd5-4f62-bfa7-053f37a84d72.png)
+
