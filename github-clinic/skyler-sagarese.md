@@ -37,4 +37,6 @@ The Southeast Fisheries Science Center (SEFSC) conducts stock assessments throug
 
 > [Stock assessments conducted can be found here](http://sedarweb.org/sedar-projects). 
 
+I am located at the Southeast Fisheries Science Center in Miami Florida.
+
 
