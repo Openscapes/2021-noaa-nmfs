@@ -1,4 +1,4 @@
-<a align="left" href="https://github.com/Openscapes/2021-noaa-nmfs"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
+<a align="left" href="https://github.com/Openscapes/2021-noaa-nmfs"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> <a align="left" href="https://github.com/Openscapes/2021-noaa-nmfs/wiki"><img src="open-book.png" width="35px"></a>
 
 # 2021 NOAA NMFS Openscapes Champions Cohort
 
