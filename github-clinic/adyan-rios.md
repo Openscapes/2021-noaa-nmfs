@@ -12,10 +12,12 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. tamales
 1. cakes
 
-Will adding a line of text start a new list
+Q: Will adding a line of text start a new list? A: You need a empty line before a new list.
 
 1. Will using number 2 start a new list numbered at 1...
 1. Just testing if this will be number 2 in a new list
+
+1. Awsome... Ok, now I understand the asterick note above!
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
