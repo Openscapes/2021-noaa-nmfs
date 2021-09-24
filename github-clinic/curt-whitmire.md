@@ -27,4 +27,18 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
+# Curt's first editing via the browser
+Testing **different** *font* styles
+
+Testing Lists
+1. first
+2. second
+3. third
+
+Testing Task Lists
+- [x] to do 1
+- [ ] to do 2
+- [ ] to do 3
+
+
 
