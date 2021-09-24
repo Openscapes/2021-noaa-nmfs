@@ -12,6 +12,8 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. tamales
 1. cakes
 
+Will adding a line of text start a new list
+
 2. Will using number 2 start a new list numbered at 1...
 2. Just testing if this will be number 2 in a new list
 
