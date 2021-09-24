@@ -17,6 +17,8 @@ Q: Will adding a line of text start a new list? A: You need a empty line before 
 1. Will using number 2 start a new list numbered at 1...
 1. Just testing if this will be number 2 in a new list
 
+Third list:
+
 1. Awsome... Ok, now I understand the asterick note above!
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
