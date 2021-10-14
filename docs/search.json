@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-14T15:05:52-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Openscapes",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-14T15:05:53-07:00"
+    }
+  ],
+  "collections": []
+}
