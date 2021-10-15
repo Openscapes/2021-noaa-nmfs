@@ -4,7 +4,7 @@
 
 Welcome to the 2021 NOAA NMFS Openscapes Champions Cohort! This is a Cohort for the NOAA National Marine Fisheries Service ([NMFS](https://www.fisheries.noaa.gov/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>.  
 
-<img align="right" src="horst-champions-trailhead.png" width="450">  
+<img align="right" src="horst-champions-trailhead.png" width="450"> 
 
 ## Cohort Agendas
 
