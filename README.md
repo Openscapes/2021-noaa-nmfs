@@ -42,7 +42,7 @@ These are the teams participating: please edit this repo yourself following our 
 
 **The SEFSC Team** is part of the SouthEast Data, Assessment, and Review (SEDAR; http://sedarweb.org/) in the Sustainable Fisheries division at [SEFSC](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center). This team will be working on improving data workflow, automating reports, and collaborating on packages and functions for assessment model output and diagnostics for Southeast stock assessments for the Gulf of Mexico, Caribbean, and Atlantic. 
 
-**The NEFSC Team** in part collects fisheries dependent data in collaboration with the fishing industry, which can be underutilized, in part due to the complex nature and challenges creating reproducible research products. They are interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. Web presence/GitHub Org:
+**The NEFSC Team** in part collects fisheries dependent data in collaboration with the fishing industry. These data can be underutilized, in part due to their complex nature, and this complexity creates challenges for their use in reproducible research products. The team is interested in strengthening open science approaches to increase the value of these data by opening the door to new users who have previously been unable to use the data sets due to their complex nature. Web presence/GitHub Org:
 
 ## Openscapes team
 
